@@ -1,0 +1,2242 @@
+[
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Open the Play Store",
+    "displayTitle": "",
+    "body": "<p style=\"font-size:25px;\">The Play Store comes installed on every Android Phone!</p><ul style=\"font-size:25px;\"><li>Find the Play Store icon in your Apps menu or on your screen.</li><li>Open the Play Store App.</li></ul>",
+    "_ariaLevel": 0,
+    "_id": "6937373e9d9eea5884a5ef20",
+    "_parentId": "6937373d9d9eea5884a5ef1f",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Image of Home Screen with Play Store App",
+    "displayTitle": "",
+    "body": "",
+    "_ariaLevel": 0,
+    "_id": "693743989d9eea5884a5ef2a",
+    "_parentId": "6937373d9d9eea5884a5ef1f",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "Image of Home Screen with Play Store App",
+      "large": "course/en/assets/ae25f65abf33125b1483b2f9e311d35fe54b05aa.jpg",
+      "small": "course/en/assets/ae25f65abf33125b1483b2f9e311d35fe54b05aa.jpg",
+      "attribution": "",
+      "_url": "",
+      "_target": "_blank"
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Locate and Install File Manager Plus",
+    "displayTitle": "",
+    "body": "<p style=\"font-size:25px;\">In the Play Store:</p><ul style=\"font-size:25px;\"><li>Search for File Manager Plus.</li><li>Install File Manager Plus.</li></ul>",
+    "_ariaLevel": 0,
+    "_id": "693745519d9eea5884a5ef2e",
+    "_parentId": "6937432b9d9eea5884a5ef29",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "File Manager Plus in the Play Store",
+    "displayTitle": "",
+    "body": "",
+    "_ariaLevel": 0,
+    "_id": "693745569d9eea5884a5ef2f",
+    "_parentId": "6937432b9d9eea5884a5ef29",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "This image shows the File Manager Plus app in the Play Store, it is already installed and fully updated, the button reads Open.",
+      "large": "course/en/assets/dfc5df63daeadcbbeaf6ff431f5e10a47e17553c.jpg",
+      "small": "course/en/assets/dfc5df63daeadcbbeaf6ff431f5e10a47e17553c.jpg",
+      "attribution": "",
+      "_url": "",
+      "_target": "_blank"
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Update Google Drive",
+    "displayTitle": "",
+    "body": "<p style=\"font-size:25px;\">Google Drive comes preinstalled on all Android Devices:</p><ul style=\"font-size:25px;\"><li>In the Play Store, search for Google Drive.</li><li>Tap on the Google Drive app in the menu.</li><li>If you see an Update Button then tap to update.</li></ul><p style=\"font-size:25px;\">If you instead see an Open Button, as in the image, it is already fully updated.</p>",
+    "_ariaLevel": 0,
+    "_id": "69374ae89d9eea5884a5ef3a",
+    "_parentId": "69374ad89d9eea5884a5ef39",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Google Drive in Play Store",
+    "displayTitle": "",
+    "body": "",
+    "_ariaLevel": 0,
+    "_id": "69374b4f9d9eea5884a5ef3b",
+    "_parentId": "69374ad89d9eea5884a5ef39",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "Image of Google Drive app in Play Store, the button on the right reads Open so this app is fully updated.",
+      "large": "course/en/assets/615a9b2aa11c0f6a490b6199fbe41f59d0259b19.jpg",
+      "small": "course/en/assets/615a9b2aa11c0f6a490b6199fbe41f59d0259b19.jpg",
+      "attribution": "",
+      "_url": "",
+      "_target": "_blank"
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "verticalItems",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_ariaLevel": 0,
+    "_id": "69375a9a9d9eea5884a5ef52",
+    "_parentId": "69375a8e9d9eea5884a5ef51",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_onScreenPercentInviewVertical": 1,
+    "top": "",
+    "_items": [
+      {
+        "title": "",
+        "body": "<p style=\"font-family:Merriweather;font-size:25px;\"><span style=\"color:hsl(0,0%,0%);\">Go to</span> <a href=\"https://github.com/\">https://github.com/</a></p><p style=\"font-family:Merriweather;font-size:25px;\">&nbsp;</p><p style=\"font-family:Merriweather;font-size:25px;\"><span style=\"color:hsl(0,0%,0%);\">If you already have a GitHub account then click in the top right to sign in (or you may already be signed in).</span></p><p style=\"font-family:Merriweather;font-size:25px;\">&nbsp;</p><p style=\"font-family:Merriweather;font-size:25px;\"><span style=\"color:hsl(0,0%,0%);\">If you are new to GitHub enter your email and click Sign up for GitHub.</span></p>",
+        "_icon": {
+          "src": "course/en/assets/38d08f46317e8b9be1e26f0f2fcd2ebcddbdd59e.webp",
+          "_classes": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_graphic": {
+          "src": "course/en/assets/38d08f46317e8b9be1e26f0f2fcd2ebcddbdd59e.webp",
+          "alt": ""
+        }
+      },
+      {
+        "title": "",
+        "body": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-family:Merriweather;font-size:25px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">Enter your information. &nbsp;</span></span></p><p>&nbsp;</p><p><span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-family:Merriweather;font-size:25px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">Be sure to save your password and username somewhere safe. You will need them in the future to update AAPS.&nbsp;</span></span></p><p>&nbsp;</p><p><span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-family:Merriweather;font-size:25px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">You can instead use your Google or Apple account information to sign in if you prefer.</span></span></p>",
+        "_icon": {
+          "src": "course/en/assets/1af3b385ef724293b95a59b5ee71f09930d9d0af.webp",
+          "_classes": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_graphic": {
+          "src": "course/en/assets/1af3b385ef724293b95a59b5ee71f09930d9d0af.webp",
+          "alt": ""
+        }
+      },
+      {
+        "title": "",
+        "body": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-family:Merriweather;font-size:25px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">You will land in your GitHub Dashboard. &nbsp;</span></span></p><p>&nbsp;</p><p><span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-family:Merriweather;font-size:25px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">This image is the old GitHub Dashboard. &nbsp;At the time this training was created, there was an option to access a new GitHub dashboard which is shown below. &nbsp;</span></span></p><p>&nbsp;</p><p><span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-family:Merriweather;font-size:25px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">It does not matter which dashboard you are seeing, either is fine.</span></span></p>",
+        "_icon": {
+          "src": "course/en/assets/9348e2c8bcd9b594587034f0f66906a5e2335964.jpeg",
+          "_classes": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_graphic": {
+          "src": "course/en/assets/9348e2c8bcd9b594587034f0f66906a5e2335964.jpeg",
+          "alt": ""
+        }
+      },
+      {
+        "title": "",
+        "body": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-family:Merriweather;font-size:25px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">This is an image of the new GitHub Dashboard to avoid confusion.</span></span></p><p>&nbsp;</p><p><span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-family:Merriweather;font-size:25px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">If this is where you were taken upon creating your account or logging in, the rest of the instructions are still the same.</span></span></p>",
+        "_icon": {
+          "src": "course/en/assets/6c3f4219f92413e6a52e142af1434e6c228153b2.webp",
+          "_classes": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_graphic": {
+          "src": "course/en/assets/6c3f4219f92413e6a52e142af1434e6c228153b2.webp",
+          "alt": ""
+        }
+      }
+    ],
+    "bottom": ""
+  },
+  {
+    "_component": "verticalItems",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-family:Merriweather;font-size:25px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">Forking is creating your own copy of the code that is still connected to the master code for easy updates later. &nbsp;This is required to build AAPS from your phone.&nbsp;</span></span></p>",
+    "_ariaLevel": 0,
+    "_id": "69375e409d9eea5884a5ef61",
+    "_parentId": "69375cb89d9eea5884a5ef5e",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_onScreenPercentInviewVertical": 1,
+    "top": "",
+    "_items": [
+      {
+        "title": "",
+        "body": "<p style=\"font-family:Merriweather;font-size:25px;\">Start by accessing the main AndroidAPS repository here:</p><p><a style=\"color:#1155cc;font-size:25px;\" href=\"https://github.com/nightscout/AndroidAPS\" target=\"_blank\"><u>Master AAPS Repository</u></a></p>",
+        "_icon": {
+          "src": "course/en/assets/cc36ad247691374600db955e57345807efb83a76.jpeg",
+          "_classes": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_graphic": {
+          "src": "course/en/assets/cc36ad247691374600db955e57345807efb83a76.jpeg",
+          "alt": ""
+        }
+      },
+      {
+        "title": "",
+        "body": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-family:Merriweather;font-size:25px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">Click on the Fork icon that is highlighted in the red box in the image.</span></span></p>",
+        "_icon": {
+          "src": "course/en/assets/c8321c34885b1e12ba6250e0b60a07785e968058.jpeg",
+          "_classes": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_graphic": {
+          "src": "course/en/assets/c8321c34885b1e12ba6250e0b60a07785e968058.jpeg",
+          "alt": ""
+        }
+      },
+      {
+        "title": "",
+        "body": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-family:Merriweather;font-size:25px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">Scroll down and select the green Create fork button.</span></span></p><p>&nbsp;</p><p><span style=\"background-color:rgb(255,255,255);color:hsl(0,75%,60%);\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-family:Merriweather;font-size:25px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\"><strong>For advanced users only: </strong>Uncheck the “Copy the master branch only” box before selecting the Create fork button if you will be building developer versions or customizations.</span></span></p>",
+        "_icon": {
+          "src": "course/en/assets/bba9372cd0d87aff26fcc4ab03199c9fae92c411.webp",
+          "_classes": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_graphic": {
+          "src": "course/en/assets/bba9372cd0d87aff26fcc4ab03199c9fae92c411.webp",
+          "alt": ""
+        }
+      },
+      {
+        "title": "",
+        "body": "<p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:1.7rem;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:2;margin-block:0px 1.7rem;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">GitHub now displays your personal AAPS Repository. You know you're looking at your code by clicking on the ... to see your username and because it shows it was forked from the main code.</p><p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:1.7rem;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:2;margin-block:0px 1.7rem;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">Also, ensure it is fully up to date with the master code. &nbsp;If it is not, you need to Sync fork. &nbsp;</p>",
+        "_icon": {
+          "src": "course/en/assets/7811bf113467debf12ff2e367c3e0c73dd4587cf.jpeg",
+          "_classes": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_graphic": {
+          "src": "course/en/assets/7811bf113467debf12ff2e367c3e0c73dd4587cf.jpeg",
+          "alt": ""
+        }
+      }
+    ],
+    "bottom": "Leave this open, you will need it shortly to add your secrets.  We will first open a new tab with the preparation file to prepare those secrets."
+  },
+  {
+    "_component": "pageNav",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Go to GitHub Preparation",
+    "displayTitle": "",
+    "body": "",
+    "_ariaLevel": 0,
+    "_id": "6938545b9d9eea5884a5ef7a",
+    "_parentId": "6938543f9d9eea5884a5ef79",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_loopStyle": "allPages",
+    "_shouldSkipOptionalPages": false,
+    "_buttons": {
+      "_previous": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "icon-controls-left",
+        "_iconAlignment": "auto",
+        "text": "Previous",
+        "ariaLabel": "Previous Page",
+        "_navTooltip": {
+          "_isEnabled": true,
+          "text": "Previous"
+        },
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "icon-home",
+        "_iconAlignment": "auto",
+        "text": "Menu",
+        "ariaLabel": "Go to main menu",
+        "_navTooltip": {
+          "_isEnabled": true,
+          "text": "Menu"
+        },
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "icon-controls-up",
+        "_iconAlignment": "auto",
+        "text": "Back to menu",
+        "ariaLabel": "Back to menu",
+        "_navTooltip": {
+          "_isEnabled": true,
+          "text": "Back to menu"
+        },
+        "_customRouteId": ""
+      },
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "icon-controls-left",
+        "_iconAlignment": "auto",
+        "text": "Return",
+        "ariaLabel": "Return to previous location",
+        "_navTooltip": {
+          "_isEnabled": true,
+          "text": "Return"
+        }
+      },
+      "_next": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "icon-controls-right",
+        "_iconAlignment": "auto",
+        "text": "Go to GitHub Preparation",
+        "ariaLabel": "Next Page",
+        "_navTooltip": {
+          "_isEnabled": true,
+          "text": "Go to GitHub Preparation"
+        },
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "icon-cross",
+        "_iconAlignment": "auto",
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_navTooltip": {
+          "_isEnabled": true,
+          "text": "Close"
+        }
+      }
+    }
+  },
+  {
+    "_component": "pageNav",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_ariaLevel": 0,
+    "_id": "6938580c9d9eea5884a5ef7c",
+    "_parentId": "693857fd9d9eea5884a5ef7b",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_loopStyle": "none",
+    "_shouldSkipOptionalPages": false,
+    "_buttons": {
+      "_previous": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "icon-controls-left",
+        "_iconAlignment": "auto",
+        "text": "Go back to Play Store Prerequisites",
+        "ariaLabel": "Previous Page",
+        "_navTooltip": {
+          "_isEnabled": true,
+          "text": "Go back to Play Store Prerequisites"
+        },
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "icon-home",
+        "_iconAlignment": "auto",
+        "text": "Menu",
+        "ariaLabel": "Go to main menu",
+        "_navTooltip": {
+          "_isEnabled": true,
+          "text": "Menu"
+        },
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "icon-controls-up",
+        "_iconAlignment": "auto",
+        "text": "Back to menu",
+        "ariaLabel": "Back to menu",
+        "_navTooltip": {
+          "_isEnabled": true,
+          "text": "Back to menu"
+        },
+        "_customRouteId": ""
+      },
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "icon-controls-left",
+        "_iconAlignment": "auto",
+        "text": "Return",
+        "ariaLabel": "Return to previous location",
+        "_navTooltip": {
+          "_isEnabled": true,
+          "text": "Return"
+        }
+      },
+      "_next": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "icon-controls-right",
+        "_iconAlignment": "auto",
+        "text": "Continue to Build Secrets",
+        "ariaLabel": "Next Page",
+        "_navTooltip": {
+          "_isEnabled": true,
+          "text": "Continue to Building Secrets"
+        },
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "icon-cross",
+        "_iconAlignment": "auto",
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_navTooltip": {
+          "_isEnabled": true,
+          "text": "Close"
+        }
+      }
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "soft",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Prior Use",
+    "displayTitle": "Prior Use",
+    "body": "<p style=\"font-family:Merriweather;font-size:20px;margin-bottom:12px;\">Do you have prior experience using AAPS?</p><p style=\"font-family:Merriweather;font-size:20px;margin-bottom:12px;\">If you answer <strong>Yes </strong>you MUST know how to find your .jks file and know its password, its alias (usually key0), and its alias password (usually the same as the JKS password).</p><p style=\"font-family:Merriweather;font-size:20px;margin-bottom:12px;\">If you do not have this information then you must answer <strong>No </strong>here.</p><p style=\"font-family:Merriweather;font-size:20px;margin-bottom:12px;\">If you answer <strong>No </strong>then you will not be able to install this build over your current build. If you are currently using AAPS and answer <strong>No</strong>, be sure to export and save your preferences from your current AAPS to a place where you will be able to access them after installing the new version.</p>",
+    "_ariaLevel": 0,
+    "_id": "6938650f9d9eea5884a5ef9d",
+    "_parentId": "693864c69d9eea5884a5ef9b",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}}. Then select Submit Answer. Then select Continue and scroll down.",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "Yes",
+        "altText": "",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "No",
+        "altText": "",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": false,
+    "_canShowCorrectness": false,
+    "_canShowFeedback": false,
+    "_canShowMarking": false,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": false,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "Submit Answer",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-family:Merriweather;font-size:20px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">This is becoming very step-by-step where it is essential not to miss things or do them in the wrong order, we are moving into a process format so you do everything on one step before viewing the next. &nbsp;When you have finished a step just click the right arrow above the text to move to the next step. &nbsp;You can always click back a step if needed.</span></span></p>",
+    "_ariaLevel": 0,
+    "_id": "693867199d9eea5884a5efa0",
+    "_parentId": "69385a4a9d9eea5884a5ef80",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><span style=\"background-color:hsl(0,0%,100%);color:rgb(0,0,0);\"><span style=\"-webkit-text-stroke-width:0px;border-width:0px;display:inline !important;float:none;font-family:Merriweather;font-size:20px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;margin:0px;orphans:2;outline:0px;padding:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:baseline;white-space:normal;widows:2;word-spacing:0px;\">Secrets are just codes that GitHub uses to securely store your information. &nbsp;The secrets prevent non-authorized users from accessing your data. &nbsp;In our case, the secrets ensure that your AAPS is specific to you and can only be installed on top of another AAPS you have built for full transfer of settings. &nbsp;If you have a new secret then you'll need to export your settings and import them into the new AAPS. &nbsp;Keeping the same secret throughout your building ensures easy updates. &nbsp;We also have a secret for accessing your Google Drive that both new and existing users must create&nbsp;so that GitHub can automatically save the built APK file there when we are finished building.</span></span></p>",
+    "_ariaLevel": 0,
+    "_id": "693867979d9eea5884a5efa1",
+    "_parentId": "693859519d9eea5884a5ef7f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Creating your Java KeyStore (JKS) - New Users",
+    "displayTitle": "Creating your Java KeyStore (JKS) - New Users",
+    "body": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-family:Merriweather;font-size:20px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:center;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">This set of instructions is only for users without an existing Keystore or who have forgotten the login information or lost the .jks file for their old keystore. &nbsp;If you have your JKS and want to be able to install this build over your old one then you must refresh this page and select Yes in the prior question.</span></span></p>",
+    "_ariaLevel": 0,
+    "_id": "69386c4d9d9eea5884a5efaa",
+    "_parentId": "69386c419d9eea5884a5efa9",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Select the next and back arrows over the text to move through the steps.",
+    "mobileInstruction": "Select the plus icon followed by the next arrow to find out more.",
+    "_isTextBelowImage": false,
+    "_isMobileTextBelowImage": false,
+    "_isStackedOnMobile": false,
+    "_hasNavigationInTextArea": true,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Download the Preparation File",
+        "body": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-family:Merriweather;font-size:20px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">Download the Preparation file from here:</span></span><br><a style=\"border-width:0px;box-sizing:border-box;color:rgb(255, 99, 30) !important;fill:rgb(255, 99, 30) !important;font-family:inherit !important;font-feature-settings:inherit;font-kerning:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:20px;font-stretch:inherit;font-style:inherit;font-variant:inherit;font-variation-settings:inherit;font-weight:inherit;line-height:inherit;margin-block:0px;margin-inline:0px;padding-block:0px;padding-inline:0px;vertical-align:initial;\" href=\"https://github.com/nightscout/aaps-ci-preparation/releases/download/release-v1.1.2/aaps-ci-preparation.html\" target=\"_blank\"><span style=\"color:rgb(64,64,64);\"><span style=\"-webkit-text-stroke-width:0px;border-width:0px;box-sizing:border-box;font-family:inherit !important;font-feature-settings:inherit;font-kerning:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:inherit;font-stretch:inherit;font-style:inherit;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variant:inherit;font-variation-settings:inherit;font-weight:inherit;letter-spacing:normal;line-height:inherit;margin-block:0px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-decoration:inherit;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">https://github.com/nightscout/aaps-ci-preparation/releases/download/release-v1.1.2/aaps-ci-preparation.html</span></span></a></p>",
+        "_graphic": {
+          "src": "course/en/assets/fcf35b3fa10a82df848147c62d6a73327691099d.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": ""
+      },
+      {
+        "title": "Use File Manager Plus to open the Preparation File",
+        "body": "<p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:20px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px 16px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">1) Open the File Manager Plus app.</p><p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:20px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px 16px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">2) Go to Downloads.</p><p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:20px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px 16px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">3) Click on the Preparation File.</p><p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:20px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px 16px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">4) Open with your Browser. &nbsp;</p><p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:20px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">The file opens in a new tab in your browser. &nbsp;The old tab with GitHub in it is still present. &nbsp;If you are in Chrome, you will likely see a box on the top right to switch between tabs. &nbsp;The number in that box reflects the number of tabs currently active in Chrome.</p>",
+        "_graphic": {
+          "src": "course/en/assets/900dc553485311bb829fe77cdbc04f9914a954c8.webp",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": ""
+      },
+      {
+        "title": "Option 1: Generate JKS",
+        "body": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-family:Merriweather;font-size:20px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">As a new user, you need a new JKS. Click the green Generate JKS button. A JKS code will appear in the lower box.</span></span></p>",
+        "_graphic": {
+          "src": "course/en/assets/7822bcef6c1149ecac64c3ffc60a670e18be052c.webp",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": ""
+      },
+      {
+        "title": "Go to GitHub Settings",
+        "body": "<p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:20px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px 16px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">1) Switch Back to the GitHub tab, likely by selecting a box listing the number of active tabs in the top right corner of your browser if you are using Chrome.</p><p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:20px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">2) In GitHub, select the ... near the top right and select Settings from the list.</p>",
+        "_graphic": {
+          "src": "course/en/assets/87dc92d7f12e20f18c9350a835794db0bb143636.webp",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": ""
+      },
+      {
+        "title": "Access GitHub Secrets",
+        "body": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-family:Merriweather;font-size:20px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">Select Secrets and variables from the Settings List.</span></span></p>",
+        "_graphic": {
+          "src": "course/en/assets/630b8651ebf51e1695490fecea0b40ad474a2aaf.webp",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": ""
+      },
+      {
+        "title": "Perform Actions on GitHub Secrets",
+        "body": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-family:Merriweather;font-size:20px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">Select Actions under Secrets and variables.</span></span></p>",
+        "_graphic": {
+          "src": "course/en/assets/434b06d09fea79a96393b2e995f27fa299198bac.webp",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": ""
+      },
+      {
+        "title": "Create a New Repository Secret",
+        "body": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-family:Merriweather;font-size:20px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">Select the green New repository secret button.</span></span></p>",
+        "_graphic": {
+          "src": "course/en/assets/32554583c6cbd68d2308601d8187fcaa1877e5fb.webp",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": ""
+      },
+      {
+        "title": "Copy the Name from the Preparation File",
+        "body": "<p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:20px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px 16px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">1) Navigate back to the Preparation File browser tab.</p><p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:20px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">2) Select the top blue Copy button next to KEYSTORE_SET:</p>",
+        "_graphic": {
+          "src": "course/en/assets/b35b5ef419deb4bb5c5561815c039816a0b73d99.webp",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": ""
+      },
+      {
+        "title": "Enter the Keystore Name in GitHub",
+        "body": "<p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:20px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px 16px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">1) Navigate back to the GitHub tab.</p><p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:20px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">2) Paste \"KEYSTORE_SET\" in the Name field. &nbsp;To paste, long press on the box and then select paste.</p>",
+        "_graphic": {
+          "src": "course/en/assets/82ca686d2ec5d78266e0d2ea6ec305e222aa9145.webp",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": ""
+      },
+      {
+        "title": "Copy the JKS from the Preparation File",
+        "body": "<p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:20px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px 16px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">1) Navigate back to the Preparation File tab</p><p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:20px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">2) Select the second blue Copy button next to the generated JKS.</p>",
+        "_graphic": {
+          "src": "course/en/assets/099fef3b281aaa808a9da0dad8e3ab7069eeec8b.webp",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": ""
+      },
+      {
+        "title": "Paste the JKS code into GitHub",
+        "body": "<p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:20px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px 16px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">1) Navigate back to the GitHub tab.</p><p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:20px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px 16px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">2) Paste the JKS code into the Secret box. Use the long press to paste the code.</p><p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:20px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">3) Select Add secret to save your secret.</p>",
+        "_graphic": {
+          "src": "course/en/assets/6fb391e551a6ae2dbe8b9427b32e146598051888.webp",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": ""
+      },
+      {
+        "title": "First Secret Success!",
+        "body": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-family:Merriweather;font-size:20px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:center;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">You have successfully saved your first Repository secret and can scroll down to see it in the list.</span></span></p><p>&nbsp;</p><p><span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-family:Merriweather;font-size:20px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:center;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">Scroll down to view the set of instructions to add a Google Drive Authorization secret.</span></span></p>",
+        "_graphic": {
+          "src": "course/en/assets/5c4c3692ad09cc6610b57e5d23d36ae840614477.webp",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": ""
+      }
+    ]
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "AAPS Secrets for Current / Past Users",
+    "displayTitle": "AAPS Secrets for Current / Past Users",
+    "body": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-family:Merriweather;font-size:20px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:center;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">This set of instructions is only for users who have a .jks from an Android Studio build to import. &nbsp;You must know the keystore password, the alias, and the alias password to proceed this way. &nbsp;If you follow these steps properly with the correct information you will be able to install the browser build directly over your current app without needing to export/import settings. &nbsp;We ALWAYS recommend exporting the settings and saving them before any install just in case anything goes wrong.</span></span></p>",
+    "_ariaLevel": 0,
+    "_id": "693886e49d9eea5884a5efb3",
+    "_parentId": "6938865d9d9eea5884a5efb2",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Select the next and back arrows above the text to move through the steps.",
+    "mobileInstruction": "Select the plus icon followed by the next arrow to find out more.",
+    "_isTextBelowImage": false,
+    "_isMobileTextBelowImage": false,
+    "_isStackedOnMobile": false,
+    "_hasNavigationInTextArea": true,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Download the Preparation File",
+        "body": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-family:Merriweather;font-size:20px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">Download the Preparation file from here:</span></span><br><a style=\"border-width:0px;box-sizing:border-box;color:rgb(255, 99, 30) !important;fill:rgb(255, 99, 30) !important;font-family:inherit !important;font-feature-settings:inherit;font-kerning:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:20px;font-stretch:inherit;font-style:inherit;font-variant:inherit;font-variation-settings:inherit;font-weight:inherit;line-height:inherit;margin-block:0px;margin-inline:0px;padding-block:0px;padding-inline:0px;vertical-align:initial;\" href=\"https://github.com/nightscout/aaps-ci-preparation/releases/download/release-v1.1.2/aaps-ci-preparation.html\" target=\"_blank\"><span style=\"color:rgb(64,64,64);\"><span style=\"-webkit-text-stroke-width:0px;border-width:0px;box-sizing:border-box;font-family:inherit !important;font-feature-settings:inherit;font-kerning:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:inherit;font-stretch:inherit;font-style:inherit;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variant:inherit;font-variation-settings:inherit;font-weight:inherit;letter-spacing:normal;line-height:inherit;margin-block:0px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-decoration:inherit;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">https://github.com/nightscout/aaps-ci-preparation/releases/download/release-v1.1.2/aaps-ci-preparation.html</span></span></a></p>",
+        "_graphic": {
+          "src": "course/en/assets/fcf35b3fa10a82df848147c62d6a73327691099d.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": ""
+      },
+      {
+        "title": "Open the Preparation File with File Manager Plus",
+        "body": "<p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:20px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px 16px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">1) Open the File Manager Plus app.</p><p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:20px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px 16px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">2) Go to Downloads.</p><p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:20px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px 16px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">3) Click on the Preparation File.</p><p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:20px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px 16px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">4) Open with your Browser. &nbsp;</p><p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:20px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px 16px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">The file opens in a new tab in your browser. The old tab with GitHub in it is still present. &nbsp;If you are using Chrome, will see a box on the top right to switch between tabs, the number of active tabs in your browser is displayed in the box.</p>",
+        "_graphic": {
+          "src": "course/en/assets/900dc553485311bb829fe77cdbc04f9914a954c8.webp",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": ""
+      },
+      {
+        "title": "Upload Existing JKS",
+        "body": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-family:Merriweather;font-size:20px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">As an existing user who has built with Android Studio, you have an existing JKS.&nbsp;</span></span></p><p style=\"font-size:10px;\">&nbsp;</p><p><span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-family:Merriweather;font-size:20px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">Select the Option 2 section to expand it and click on Choose File in the green bar.</span></span></p>",
+        "_graphic": {
+          "src": "course/en/assets/558908326e15a64fded8057faf78c77a1b73993c.webp",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": ""
+      },
+      {
+        "title": "Select your JKS from your Google Drive",
+        "body": "<p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:20px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px 16px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">1) Navigate to the JKS stored on your device, we strongly recommend in Google Drive. &nbsp;</p><p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:20px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">2) Select the file.</p>",
+        "_graphic": {
+          "src": "course/en/assets/70bdc4ef7b4e9d20a2e3f3c64285f3cbcb0a2bb4.webp",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": ""
+      },
+      {
+        "title": "The JKS code appears in the Preparation File",
+        "body": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-family:Merriweather;font-size:20px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">Verify that the JKS code has appeared in the box under the green Choose File line.</span></span></p>",
+        "_graphic": {
+          "src": "course/en/assets/5643ce274b46747a112ea958473df72e4a1130fc.webp",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": ""
+      },
+      {
+        "title": "Go to GitHub Settings",
+        "body": "<p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:20px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px 16px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">1) Switch Back to the GitHub tab, likely through a box listing the number of tabs in the top right corner of your browser if you are using Chrome.</p><p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:20px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">2) Select the ... near the top right and select Settings from the list.</p>",
+        "_graphic": {
+          "src": "course/en/assets/87dc92d7f12e20f18c9350a835794db0bb143636.webp",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": ""
+      },
+      {
+        "title": "Access GitHub Secrets",
+        "body": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-family:Merriweather;font-size:20px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">Select Secrets and variables from the Settings list.</span></span></p>",
+        "_graphic": {
+          "src": "course/en/assets/630b8651ebf51e1695490fecea0b40ad474a2aaf.webp",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": ""
+      },
+      {
+        "title": "Perform Actions on GitHub Secrets",
+        "body": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-family:Merriweather;font-size:20px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">Select Actions under Secrets and variables.</span></span></p>",
+        "_graphic": {
+          "src": "course/en/assets/434b06d09fea79a96393b2e995f27fa299198bac.webp",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": ""
+      },
+      {
+        "title": "Create a New Repository Secret",
+        "body": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-family:Merriweather;font-size:20px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">Select the green New repository secret button.</span></span></p>",
+        "_graphic": {
+          "src": "course/en/assets/32554583c6cbd68d2308601d8187fcaa1877e5fb.webp",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": ""
+      },
+      {
+        "title": "Copy the Name from the Preparation File",
+        "body": "<p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:20px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px 16px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">1) Navigate back to the Preparation File browser tab.</p><p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:20px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">2) Select the top blue Copy button next to KEYSTORE_BASE64:</p>",
+        "_graphic": {
+          "src": "course/en/assets/28bb7d42fc545f9c3f6a43086d856d792d5fb7cf.webp",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": ""
+      },
+      {
+        "title": "Enter the Keystore Name in GitHub",
+        "body": "<p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:20px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px 16px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">1) Navigate back to the GitHub tab.</p><p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:20px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">2) Paste \"KEYSTORE_BASE64\" in the name field. &nbsp;To paste, long press on the box and then select paste.</p>",
+        "_graphic": {
+          "src": "course/en/assets/30177a2a711f503d06f131fb98141f8a3f025e7e.webp",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": ""
+      },
+      {
+        "title": "Copy the JKS code from the Preparation File",
+        "body": "<p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:20px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px 16px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">1) Navigate back to the Preparation File tab</p><p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:20px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">2) Select the second blue Copy button next to the imported JKS code.</p>",
+        "_graphic": {
+          "src": "course/en/assets/5d4f7bf7abdc80f946299ce8d2f9fe9e3033c598.webp",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": ""
+      },
+      {
+        "title": "Paste the JKS code into GitHub",
+        "body": "<p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:20px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px 16px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">1) Navigate back to the GitHub tab.</p><p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:20px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px 16px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">2) Paste the JKS code into the Secret box. Use the long press to paste the code.</p><p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:20px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">3) Select the green Add secret button.</p>",
+        "_graphic": {
+          "src": "course/en/assets/3bdf53f820925d25704cf8f9e9542d5e9643fc67.webp",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": ""
+      },
+      {
+        "title": "Add a second Secret for the KeyStore Password",
+        "body": "<p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:20px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px 16px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">Still in the GitHub tab:</p><p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:20px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">1) Scroll down and select New repository secret.</p>",
+        "_graphic": {
+          "src": "course/en/assets/18e333fc5c2b987998ed823acc85b6ef1f847ae0.webp",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": ""
+      },
+      {
+        "title": "Copy the KEYSTORE_PASSWORD Name",
+        "body": "<p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:20px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px 16px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">1) Navigate to the Preparation File tab.</p><p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:20px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">2) Select the blue Copy button next to KEYSTORE_PASSWORD:</p>",
+        "_graphic": {
+          "src": "course/en/assets/836855666d7a24910799a701398745a4f864079e.webp",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": ""
+      },
+      {
+        "title": "Save the KEYSTORE_PASSWORD secret",
+        "body": "<p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:20px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px 16px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">1) Navigate back to the GitHub tab.</p><p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:20px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px 16px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">2) Long press in the Name box and paste the copied KEYSTORE_PASSWORD name.</p><p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:20px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px 16px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">3) Enter the password you have for that imported KeyStore in the Secret box.</p><p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:20px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">4) Select Add secret.</p>",
+        "_graphic": {
+          "src": "course/en/assets/d6127dcc60ff7fbc8e560ee44fe689afd2ecdaab.webp",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": ""
+      },
+      {
+        "title": "Add a third Secret for the KeyStore Alias",
+        "body": "<p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:20px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px 16px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">Still in the GitHub tab:</p><p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:20px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">1) Scroll down and select New repository secret.</p>",
+        "_graphic": {
+          "src": "course/en/assets/0d03cbfe08eb9946845d45c5575d34345441bcd8.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": ""
+      },
+      {
+        "title": "Copy the KEY_ALIAS Name",
+        "body": "<p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:20px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px 16px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">1) Navigate to the Preparation File tab.</p><p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:20px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">2) Select the blue Copy button next to KEY_ALIAS:</p>",
+        "_graphic": {
+          "src": "course/en/assets/c9bb2ec611ef7d877be846cb9786c41faa0a3e64.webp",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": ""
+      },
+      {
+        "title": "Save the KEY_ALIAS secret",
+        "body": "<p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:20px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px 16px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">1) Navigate back to the GitHub tab.</p><p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:20px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px 16px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">2) Long press in the Name box and paste the copied KEY_ALIAS name.</p><p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:20px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px 16px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">3) Enter the Alias you have for that KeyStore in the Secret box. &nbsp;<span style=\"color:hsl(0,75%,60%);\">For most of us this Alias is key0. &nbsp;(that is a lowercase k and 0 is a number)</span></p><p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:20px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">4) Select Add secret.</p>",
+        "_graphic": {
+          "src": "course/en/assets/366d8bb46c89bc77fd444135b478e58aa2a67ae7.webp",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": ""
+      },
+      {
+        "title": "Add a fourth Secret for the Alias Password",
+        "body": "<p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:20px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px 16px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">Still in the GitHub tab:</p><p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:20px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">1) Scroll down and select New repository secret.</p>",
+        "_graphic": {
+          "src": "course/en/assets/f1b310344d7dad7fcf9056657ea4be98fdf3d17a.webp",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": ""
+      },
+      {
+        "title": "Copy the KEY_PASSWORD name",
+        "body": "<p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:20px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px 16px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">1) Navigate to the Preparation File tab.</p><p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:20px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">2) Select the blue copy button next to KEY_PASSWORD:</p>",
+        "_graphic": {
+          "src": "course/en/assets/0bc5780bedf3a3d5e0610d073a378a03650d66f9.webp",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": ""
+      },
+      {
+        "title": "Save the KEY_PASSWORD secret",
+        "body": "<p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:20px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px 16px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">1) Navigate back to the GitHub tab.</p><p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:20px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px 16px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">2) Long press in the Name box and paste the copied KEY_PASSWORD name.</p><p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:20px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px 16px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">3) Enter the password you have for that Alias in the secret box. &nbsp;<span style=\"color:hsl(0,75%,60%);\">For most of us this password is identical to our Keystore Password.</span></p><p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:20px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">4) Select Add secret.</p>",
+        "_graphic": {
+          "src": "course/en/assets/7fb05c29e40644845b3b439404916a4004d2648c.webp",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": ""
+      },
+      {
+        "title": "You're almost done adding Secrets!",
+        "body": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-family:Merriweather;font-size:20px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:center;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">You have successfully saved your Secrets and can scroll down to see all four in the list. &nbsp;</span></span></p><p>&nbsp;</p><p><span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-family:Merriweather;font-size:20px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:center;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">Scroll down for a set of instructions to walk you through adding a Google Drive Authorization secret.</span></span></p>",
+        "_graphic": {
+          "src": "course/en/assets/4fb49f25ca6b972ce706cce68106d7ff66ab3da2.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": ""
+      }
+    ]
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Everyone must add a Google Drive Auth secret",
+    "displayTitle": "Everyone must add a Google Drive Auth secret",
+    "body": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-family:Merriweather;font-size:20px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:center;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">The Preparation File also helps you create a secret to authenticate your permissions to Google Drive. This is essential for GitHub to save your AAPS APK in your Google Drive once it is built. &nbsp;All users, no matter which of the prior sets of instructions you followed,&nbsp;MUST add the Google Drive authorization to successfully use the Browser Build.</span></span></p>",
+    "_ariaLevel": 0,
+    "_id": "6938afc69d9eea5884a5f00f",
+    "_parentId": "6938afa69d9eea5884a5f00d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Select the next and back arrows above the text to move through the steps.",
+    "mobileInstruction": "Select the plus icon followed by the next arrow to find out more.",
+    "_isTextBelowImage": false,
+    "_isMobileTextBelowImage": false,
+    "_isStackedOnMobile": false,
+    "_hasNavigationInTextArea": true,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Authenticate Google Drive",
+        "body": "<p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:20px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px 16px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">1) Navigate to the Preparation File tab.</p><p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:20px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px 16px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">2) Scroll down to the Google Drive Auth section.</p><p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:20px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">3) Select the green Start Auth Button.</p>",
+        "_graphic": {
+          "src": "course/en/assets/1c1d6c3879bef2f8ea3e3797ae7a7f3ac48fff0a.webp",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": ""
+      },
+      {
+        "title": "Select your Google Account",
+        "body": "<p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:20px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px 16px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">1) Select the Google Account in which you want your AAPS APK file saved.</p><p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:20px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px 16px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">2) Select Continue to grant access to that account.</p><p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:20px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">3) The Authorization code appears in the box.</p>",
+        "_graphic": {
+          "src": "course/en/assets/32ff5b869df515214fc04893a48d3a0a91ffdcb1.webp",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": ""
+      },
+      {
+        "title": "Copy the GDRIVE_OAUTH2 Name",
+        "body": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-family:Merriweather;font-size:20px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">Select the top blue Copy button to copy the GDRIVE_OAUTH2 Name.</span></span></p>",
+        "_graphic": {
+          "src": "course/en/assets/06f995e61b70609b708ededf6ef5a1fa692419c8.webp",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": ""
+      },
+      {
+        "title": "Create a new GitHub Secret",
+        "body": "<p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:20px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px 16px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">1) Navigate to the GitHub browser tab.</p><p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:20px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">2) Scroll down to Repository secrets and select New repository secret.</p><p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:20px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">(If you are a returning user you will have 4 secrets already instead of just the 1 secret shown.)</p>",
+        "_graphic": {
+          "src": "course/en/assets/2b20a87d31160e2d3287dd1bfa0db537c6c6076f.webp",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": ""
+      },
+      {
+        "title": "Enter the Secret Name",
+        "body": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-family:Merriweather;font-size:20px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">Long press in the Name box to paste the copied GDRIVE_OAUTH2 Name.</span></span></p>",
+        "_graphic": {
+          "src": "course/en/assets/c05cf24dd58c5699767626f6b54343feb0c2955e.webp",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": ""
+      },
+      {
+        "title": "Copy the Authorization Code",
+        "body": "<p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:20px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px 16px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">1) Navigate back to the Preparation File tab.</p><p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:20px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">2) Click on the bottom blue Copy button to copy the code.</p>",
+        "_graphic": {
+          "src": "course/en/assets/1490c73c4a7972d093a5b1193139e55fb6f2e099.webp",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": ""
+      },
+      {
+        "title": "Add GDrive Secret",
+        "body": "<p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:20px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px 16px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">1) Navigate to the GitHub tab.</p><p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:20px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px 16px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">2) Long press in the Secret field to paste the copied code.</p><p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:20px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">3) Select the Add secret button to save the Secret.</p>",
+        "_graphic": {
+          "src": "course/en/assets/43fa4ab08c285312c977412bd49eb853e02111de.webp",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": ""
+      },
+      {
+        "title": "Verify Secret",
+        "body": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-family:Merriweather;font-size:20px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:center;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">Scroll down to your list of Repository secrets to verify that the GDrive_OAuth2 is saved. &nbsp;</span></span></p><p><span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-family:Merriweather;font-size:20px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:center;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">If you are a new user there are now 2 Secrets in your list. &nbsp;If you are a returning user you have 5 secrets. &nbsp;The pictured list has all 5 secrets for prior users.</span></span></p><p><span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-family:Merriweather;font-size:20px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:center;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">Select the blue Continue button and then the Continue to Build AAPS button to move to the next section.</span></span></p>",
+        "_graphic": {
+          "src": "course/en/assets/0c66c9574c96f699d7900c7b0b72f3bf7dbac92b.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": ""
+      }
+    ]
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "You've survived the hardest parts!",
+    "displayTitle": "You've survived the hardest parts!",
+    "body": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-family:Merriweather;font-size:25px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">The secrets are a handful with lots of tab switching and steps and craziness. &nbsp;This is where things get easy for you. &nbsp;I promise if you've made it this far the building and installing will be easy. &nbsp;Just stick with me through these last two sections.</span></span></p>",
+    "_ariaLevel": 0,
+    "_id": "69398b92a1d4884fdc0117bb",
+    "_parentId": "69398896a1d4884fdc0117b8",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-family:Merriweather;font-size:25px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:center;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">Our wonderful developers have done the difficult part for us here. &nbsp;They've built a workflow for the system to run. &nbsp;Assuming you've followed along so far and made sure you've got the most up to date code and that your Secrets are saved, this is easy. &nbsp;But easy doesn't mean short. &nbsp;Expect this to take about 20 minutes to build once you get it started. &nbsp;You do NOT have to watch it. &nbsp;It will do it without you and save the AAPS APK&nbsp;to your Google Drive so you can complete the last step whenever it's done.</span></span></p><p><span style=\"background-color:rgb(255,255,255);color:hsl(0,75%,60%);\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-family:Merriweather;font-size:25px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:center;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\"><strong>Note</strong>: If you start this and find that you do not have the workflow to run do not panic. &nbsp;You probably had an old version of the AAPS code that didn't get updated. In GitHub, go back to your Code and select Sync and sync all the newer code pieces. &nbsp;Then you should be able to proceed.</span></span></p>",
+    "_ariaLevel": 0,
+    "_id": "69398c27a1d4884fdc0117bd",
+    "_parentId": "69398c0da1d4884fdc0117bc",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Starting the AAPS Workflow",
+    "displayTitle": "",
+    "body": "<p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-language-override:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:25px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px 16px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">You should be in the GitHub Tab, we are now done with the Preparation File and you will not need it again. &nbsp;</p><p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-language-override:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:25px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px 16px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">In the GitHub Tab:</p><p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-language-override:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:25px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px 16px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">1) Select Actions from the bar near the top.</p><p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-language-override:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:25px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px 16px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">2) Select the arrow next to Workflows to expand all Workflows <span style=\"color:hsl(0,75%,60%);\">(if you don't see the workflows then your code wasn't up to date, you need to go back to the main page of your code and hit that Sync button!)</span>.</p><p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-language-override:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:25px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">3) Under Workflows select AAPS CI.</p><p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-language-override:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:25px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">&nbsp;</p><p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-language-override:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:25px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">4) <span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-family:Merriweather;font-size:25px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">Scroll down and select Run workflow.</span></span></p>",
+    "_ariaLevel": 0,
+    "_id": "69398f3aa1d4884fdc0117c7",
+    "_parentId": "69398d45a1d4884fdc0117be",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "AAPS Workflow Start",
+    "displayTitle": "",
+    "body": "",
+    "_ariaLevel": 0,
+    "_id": "69398f3ea1d4884fdc0117c8",
+    "_parentId": "69398d45a1d4884fdc0117be",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/7ffc689c32c63472d54b8cd8aec6e850a9637198.jpg",
+      "small": "course/en/assets/7ffc689c32c63472d54b8cd8aec6e850a9637198.jpg",
+      "attribution": "",
+      "_url": "",
+      "_target": "_blank"
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Select the Branch and Build Variant",
+    "displayTitle": "",
+    "body": "<p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-language-override:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:25px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px 16px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">1) Select the Branch and Build Variant you want to build. &nbsp;</p><p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-language-override:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:25px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px 16px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\"><span style=\"color:hsl(0,75%,60%);\">For most of us the Branch will be master and the Build Variant will be fullRelease.</span></p><p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(0, 0, 0);font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-language-override:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:25px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\">2) Select the green Run workflow button.</p>",
+    "_ariaLevel": 0,
+    "_id": "69399060a1d4884fdc0117cc",
+    "_parentId": "69398f1fa1d4884fdc0117c6",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Branch and Variant",
+    "displayTitle": "",
+    "body": "",
+    "_ariaLevel": 0,
+    "_id": "69399064a1d4884fdc0117cd",
+    "_parentId": "69398f1fa1d4884fdc0117c6",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/db543bb63458cd3a9910cf031132375b2a03d8cc.webp",
+      "small": "course/en/assets/db543bb63458cd3a9910cf031132375b2a03d8cc.webp",
+      "attribution": "",
+      "_url": "",
+      "_target": "_blank"
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Confirmation of Workflow run",
+    "displayTitle": "",
+    "body": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-family:Merriweather;font-size:25px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:center;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">There will be a message that the Workflow run was successfully requested. Most of the time this takes about 20 minutes give or take about 5 minutes. Your system will update along the way but there's no reason to watch it. &nbsp;Go do something for a bit and come back in a half hour or so (or later) to do the next section. &nbsp;We are done with GitHub.</span></span></p>",
+    "_ariaLevel": 0,
+    "_id": "69399131a1d4884fdc0117d2",
+    "_parentId": "69399125a1d4884fdc0117d1",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Workflow Run",
+    "displayTitle": "",
+    "body": "",
+    "_ariaLevel": 0,
+    "_id": "6939913aa1d4884fdc0117d3",
+    "_parentId": "69399125a1d4884fdc0117d1",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/53abeea078d55fe584d96796276397168aeb0043.webp",
+      "small": "course/en/assets/53abeea078d55fe584d96796276397168aeb0043.webp",
+      "attribution": "",
+      "_url": "",
+      "_target": "_blank"
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "pageNav",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_ariaLevel": 0,
+    "_id": "69399498a1d4884fdc0117db",
+    "_parentId": "6939948fa1d4884fdc0117da",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_loopStyle": "none",
+    "_shouldSkipOptionalPages": false,
+    "_buttons": {
+      "_previous": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "icon-controls-left",
+        "_iconAlignment": "auto",
+        "text": "Previous",
+        "ariaLabel": "Previous Page",
+        "_navTooltip": {
+          "_isEnabled": true,
+          "text": "Previous"
+        },
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "icon-home",
+        "_iconAlignment": "auto",
+        "text": "Menu",
+        "ariaLabel": "Go to main menu",
+        "_navTooltip": {
+          "_isEnabled": true,
+          "text": "Menu"
+        },
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "icon-controls-up",
+        "_iconAlignment": "auto",
+        "text": "Back to menu",
+        "ariaLabel": "Back to menu",
+        "_navTooltip": {
+          "_isEnabled": true,
+          "text": "Back to menu"
+        },
+        "_customRouteId": ""
+      },
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "icon-controls-left",
+        "_iconAlignment": "auto",
+        "text": "Return",
+        "ariaLabel": "Return to previous location",
+        "_navTooltip": {
+          "_isEnabled": true,
+          "text": "Return"
+        }
+      },
+      "_next": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "icon-controls-right",
+        "_iconAlignment": "auto",
+        "text": "Continue to Build AAPS",
+        "ariaLabel": "Next Page",
+        "_navTooltip": {
+          "_isEnabled": true,
+          "text": "Next"
+        },
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "icon-cross",
+        "_iconAlignment": "auto",
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_navTooltip": {
+          "_isEnabled": true,
+          "text": "Close"
+        }
+      }
+    }
+  },
+  {
+    "_component": "pageNav",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_ariaLevel": 0,
+    "_id": "693996baa1d4884fdc0117dd",
+    "_parentId": "693996b3a1d4884fdc0117dc",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_loopStyle": "none",
+    "_shouldSkipOptionalPages": false,
+    "_buttons": {
+      "_previous": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "icon-controls-left",
+        "_iconAlignment": "auto",
+        "text": "Previous",
+        "ariaLabel": "Previous Page",
+        "_navTooltip": {
+          "_isEnabled": true,
+          "text": "Previous"
+        },
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "icon-home",
+        "_iconAlignment": "auto",
+        "text": "Menu",
+        "ariaLabel": "Go to main menu",
+        "_navTooltip": {
+          "_isEnabled": true,
+          "text": "Menu"
+        },
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "icon-controls-up",
+        "_iconAlignment": "auto",
+        "text": "Back to menu",
+        "ariaLabel": "Back to menu",
+        "_navTooltip": {
+          "_isEnabled": true,
+          "text": "Back to menu"
+        },
+        "_customRouteId": ""
+      },
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "icon-controls-left",
+        "_iconAlignment": "auto",
+        "text": "Return",
+        "ariaLabel": "Return to previous location",
+        "_navTooltip": {
+          "_isEnabled": true,
+          "text": "Return"
+        }
+      },
+      "_next": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "icon-controls-right",
+        "_iconAlignment": "auto",
+        "text": "Continue to Install AAPS",
+        "ariaLabel": "Next Page",
+        "_navTooltip": {
+          "_isEnabled": true,
+          "text": "Next"
+        },
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "icon-cross",
+        "_iconAlignment": "auto",
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_navTooltip": {
+          "_isEnabled": true,
+          "text": "Close"
+        }
+      }
+    }
+  },
+  {
+    "_component": "verticalItems",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Open Google Drive",
+    "displayTitle": "",
+    "body": "",
+    "_ariaLevel": 0,
+    "_id": "6939ba75a1d4884fdc0117e1",
+    "_parentId": "6939ba13a1d4884fdc0117e0",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_onScreenPercentInviewVertical": 1,
+    "top": "",
+    "_items": [
+      {
+        "title": "Open Google Drive",
+        "body": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-family:Merriweather;font-size:25px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">On the phone on which you want AAPS installed, open the Google Drive application.</span></span></p>",
+        "_icon": {
+          "src": "course/en/assets/8143fd4ffba6e9897c6f68987156d2279e20a80f.jpg",
+          "_classes": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_graphic": {
+          "src": "course/en/assets/8143fd4ffba6e9897c6f68987156d2279e20a80f.jpg",
+          "alt": ""
+        }
+      },
+      {
+        "title": "Open AAPS folder",
+        "body": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-family:Merriweather;font-size:25px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">Navigate to, or search for, the folder entitled AAPS. &nbsp;Select that folder to open it.</span></span></p>",
+        "_icon": {
+          "src": "course/en/assets/5273c7652e7d3fa7a17cfb2e764b524697ba085b.jpg",
+          "_classes": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_graphic": {
+          "src": "course/en/assets/5273c7652e7d3fa7a17cfb2e764b524697ba085b.jpg",
+          "alt": ""
+        }
+      },
+      {
+        "title": "Open the Version Number folder",
+        "body": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-family:Merriweather;font-size:25px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">There will be a folder entitled with the version number of the AAPS software you just built. &nbsp;Select the version number folder to access the files. &nbsp;In this example I have built version number 3.3.2.1</span></span></p>",
+        "_icon": {
+          "src": "course/en/assets/41c690c13a1d200474746076511223775667b0f3.jpg",
+          "_classes": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_graphic": {
+          "src": "course/en/assets/41c690c13a1d200474746076511223775667b0f3.jpg",
+          "alt": ""
+        }
+      },
+      {
+        "title": "Select the AAPS APK file to install",
+        "body": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-family:Merriweather;font-size:25px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">Select the file with the title AAPS-&lt;version_number&gt;.apk to install AAPS on that phone. &nbsp;In this example I am installing version 3.3.2.1 so the file I am selecting is AAPS-3.3.2.1.apk.</span></span></p>",
+        "_icon": {
+          "src": "course/en/assets/7856582aff77991dd15148401f7246992b089f0c.jpg",
+          "_classes": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_graphic": {
+          "src": "course/en/assets/7856582aff77991dd15148401f7246992b089f0c.jpg",
+          "alt": ""
+        }
+      },
+      {
+        "title": "Grant any required Permissions",
+        "body": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-family:Merriweather;font-size:25px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">You phone does need permissions to install apps from Google Drive. &nbsp;If you have not yet enabled those you will need to during the installation. &nbsp;Select Settings from the pop-up.</span></span></p>",
+        "_icon": {
+          "src": "course/en/assets/5a6ed5083ad3364a9db897fdd07bd0faa4071926.jpg",
+          "_classes": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_graphic": {
+          "src": "course/en/assets/5a6ed5083ad3364a9db897fdd07bd0faa4071926.jpg",
+          "alt": ""
+        }
+      },
+      {
+        "title": "Allow installation from Google Drive",
+        "body": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-family:Merriweather;font-size:25px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">In your settings select the slider to allow installations from the Google Drive source.</span></span></p>",
+        "_icon": {
+          "src": "course/en/assets/e087de66d91866789060558d01f3da5893ca763f.jpg",
+          "_classes": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_graphic": {
+          "src": "course/en/assets/e087de66d91866789060558d01f3da5893ca763f.jpg",
+          "alt": ""
+        }
+      },
+      {
+        "title": "You can now run AAPS!",
+        "body": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-family:Merriweather;font-size:25px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:center;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">Your AAPS build is now installed on your phone. &nbsp;When installation is complete you can work through the set-up wizard described in the AAPS documentation.&nbsp;</span></span></p><p><br><a style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border-width:0px;box-sizing:border-box;color:rgb(255, 99, 30) !important;fill:rgb(255, 99, 30) !important;font-family:Merriweather;font-feature-settings:inherit;font-kerning:inherit;font-language-override:inherit;font-optical-sizing:inherit;font-size-adjust:inherit;font-size:25px;font-stretch:inherit;font-style:normal;font-variant-alternates:inherit;font-variant-caps:normal;font-variant-east-asian:inherit;font-variant-emoji:inherit;font-variant-ligatures:normal;font-variant-numeric:inherit;font-variant-position:inherit;font-variation-settings:inherit;font-weight:400;letter-spacing:normal;line-height:inherit;margin-block:0px;margin-inline:0px;orphans:2;padding-block:0px;padding-inline:0px;text-align:center;text-indent:0px;text-transform:none;vertical-align:initial;white-space:normal;widows:2;word-spacing:0px;\" href=\"https://androidaps.readthedocs.io/en/latest/SettingUpAaps/SetupWizard.html\" target=\"_blank\">Setting Up AAPS</a></p>",
+        "_icon": {
+          "src": "course/en/assets/fb91de9e489ee057d8655b0cb7f797ec2b8ce50b.jpg",
+          "_classes": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_graphic": {
+          "src": "course/en/assets/fb91de9e489ee057d8655b0cb7f797ec2b8ce50b.jpg",
+          "alt": ""
+        }
+      }
+    ],
+    "bottom": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "AAPS User Facebook Group",
+    "displayTitle": "AAPS User Facebook Group",
+    "body": "<p style=\"font-family:Merriweather;font-size:25px;\">Be sure to join the AAPS Users Facebook group to stay up to date on new releases and ask any questions you may have while using the system.</p><p style=\"font-family:Merriweather;font-size:25px;\"><a href=\"https://www.facebook.com/groups/AndroidAPSUsers/\">AAPS Users Facebook Group</a></p>",
+    "_ariaLevel": 0,
+    "_id": "6939c121a1d4884fdc0117fc",
+    "_parentId": "6939c0fba1d4884fdc0117fb",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_ariaLevel": 0,
+    "_id": "6939c4caa1d4884fdc0117ff",
+    "_parentId": "6939c4c4a1d4884fdc0117fe",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/401690583c23b7a5ef977090bc1a8af911e1089f.jpg",
+      "small": "course/en/assets/401690583c23b7a5ef977090bc1a8af911e1089f.jpg",
+      "attribution": "",
+      "_url": "",
+      "_target": "_blank"
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Loop and Learn Facebook Group",
+    "displayTitle": "Loop and Learn Facebook Group",
+    "body": "<p style=\"font-family:Merriweather;font-size:25px;\">Loop and Learn strives to support all looping users on any system. &nbsp;While the number of AAPS users is still small, it is growing and I strongly suggest you join this group as well for more questions about looping in general.&nbsp;</p><p style=\"font-family:Merriweather;font-size:25px;\"><a href=\"https://www.facebook.com/groups/2161109864145506\">Loop and Learn Facebook Group</a></p>",
+    "_ariaLevel": 0,
+    "_id": "693c52c3a1d4884fdc01180e",
+    "_parentId": "693c52baa1d4884fdc01180d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  }
+]
